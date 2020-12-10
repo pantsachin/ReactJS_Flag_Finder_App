@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+}
+
+body {
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgba(7, 4, 8, 0) 0%,
+    rgba(27, 39, 255, 0.24443280730260852) 8%,
+    rgba(0, 21, 25, 1) 100%
+  );
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  display: ;
+}
+
+.container {
+  padding: 1rem;
+}
